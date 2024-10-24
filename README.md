@@ -1,3 +1,25 @@
+<h1 align="center">Hi 👋, I'm Omar Kasera (Cedric)</h1>
+<h3 align="center">A passionate frontend/backend developer from Kenya</h3>
+
+- 🔭 I’m currently working on **Trello**
+
+- 🌱 I’m currently learning **React**
+
+- 👯 I’m looking to collaborate on **Trello**
+
+- 🤝 I’m looking for help with **React Native**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Cedric-Kasera](https://github.com/Cedric-Kasera)
+
+- 💬 Ask me about **Java, C++**
+
+- 📫 How to reach me **omarkasera05@gmail.com**
+
+- ⚡ Fun fact **I love anime**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omar_kasera) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-kasera-124737274/) 
