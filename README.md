@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Omar Kasera (Cedric)</h1>
 <h3 align="center">A passionate frontend/backend developer from Kenya</h3>
 
-- 🔭 I’m currently working on **Trello**
+- 🌱 I’m currently learning **React Typescript**
 
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on **Trello**
+- 👯 I’m looking to collaborate on **Projects**
 
 - 🤝 I’m looking for help with **React Native**
 
@@ -15,7 +13,7 @@
 
 - 📫 How to reach me **omarkasera05@gmail.com**
 
-- ⚡ Fun fact **: I love anime**
+- ⚡ Fun fact **: ANIME fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
