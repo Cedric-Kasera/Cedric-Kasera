@@ -9,7 +9,7 @@ public class CedricKasera {
         System.out.println("A passionate frontend/backend developer from Kenya 🇰🇪");
 
         // Current Focus
-        String currentlyLearning = "React Typescript";
+        String currentlyLearning = "Go";
         String collaborationInterest = "Open to collaborating on projects";
         String helpNeeded = "Looking for help with React Native";
         String contactEmail = "omarkasera05@gmail.com";
