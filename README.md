@@ -75,7 +75,5 @@ public class CedricKasera {
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Cedric-Kasera/Cedric-Kasera/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Cedric-Kasera&icon=6&color=1)](https://visitcount.itsvg.in)
